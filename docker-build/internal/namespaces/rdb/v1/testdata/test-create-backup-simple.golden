@@ -1,0 +1,16 @@
+🎲🎲🎲 EXIT CODE: 1 🎲🎲🎲
+🟥🟥🟥 STDERR️️ 🟥🟥🟥️
+Transient state error for resource ''
+
+Details:
+Resource  with ID  is in a transient state ''
+🟥🟥🟥 JSON STDERR 🟥🟥🟥
+{
+  "message": "transient state error for resource ''",
+  "error": {
+    "resource": "",
+    "resource_id": "",
+    "current_state": ""
+  },
+  "details": "resource  with ID  is in a transient state ''"
+}
